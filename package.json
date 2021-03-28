@@ -1,0 +1,23 @@
+{
+  "name": "tonhalle",
+  "version": "1.0.0",
+  "description": "Tonhalle-Orchestra Zürich Scheduling Software, private and customized software for scheduling musicians working hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3yzen/tonhalle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3yzen/tonhalle/issues"
+  },
+  "homepage": "https://github.com/k3yzen/tonhalle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
