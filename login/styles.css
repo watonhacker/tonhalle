@@ -103,10 +103,6 @@ label{
   background: rgb(155, 0, 0, 0.6);
 }
 
-.loginbtn:hover{
-  background: rgb(155, 0, 0, 0.6);
-}
-
 a{
   margin-bottom: 10px;
   text-decoration: none;
@@ -132,4 +128,3 @@ a:visited{
 .forgot2{
   font-size: 12px
 }
-
