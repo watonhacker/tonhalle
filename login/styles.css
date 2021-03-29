@@ -55,7 +55,7 @@ video{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: rgba(255, 255, 255, 0.45);
+  background: rgba(255, 255, 255, 0.65);
   box-shadow: 0 0 50px rgba(0, 0 ,0 ,3);
   color: #fff;
   padding-top: 30px;
@@ -96,6 +96,11 @@ label{
   background: rgb(249, 93, 93, 0.5);
   border: 0px;
   width: 90px;
+  color: white;
+}
+
+.loginbtn:hover{
+  background: rgb(155, 0, 0, 0.6);
 }
 
 .loginbtn:hover{
