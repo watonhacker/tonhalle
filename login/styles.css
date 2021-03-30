@@ -43,15 +43,10 @@ video{
   top: 50%;
   left: 50%;
   border-radius: 10px;
-  transform: translate(-50%, -50%);
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%)
 }
 
 .login-form{
-    
   height: 530px;
   background-color: white;
   width: 300px;
@@ -60,7 +55,7 @@ video{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.65);
   box-shadow: 0 0 50px rgba(0, 0 ,0 ,3);
   color: #fff;
   padding-top: 30px;
@@ -80,10 +75,8 @@ input{
   border: 0.5px solid ;
   font-family: 'Inter', sans-serif;
   font-size: 16px;
-  color: #333;
-  background-color: rgba(255, 255, 255, 0.6);
-  padding:.5rem;
-  margin:.25rem 0;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 input:focus{
@@ -97,14 +90,13 @@ label{
   right: 70px;
   top: 15px;
   color: black;
- 
 }
 
 .loginbtn{
   background: rgb(249, 93, 93, 0.5);
   border: 0px;
   width: 90px;
-  color:#fff;
+  color: white;
 }
 
 .loginbtn:hover{
@@ -135,6 +127,7 @@ a:visited{
 
 .forgot2{
   font-size: 12px
+<<<<<<< HEAD
 }
 
 /* Formulario */
@@ -143,3 +136,6 @@ a:visited{
     margin:0 auto;
     text-align: center;
 }
+=======
+}
+>>>>>>> 4c1e41a89f2ecdb3cee0f8b44ed4efe31956a78e
