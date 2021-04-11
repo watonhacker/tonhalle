@@ -143,3 +143,11 @@ a:visited{
     margin:0 auto;
     text-align: center;
 }
+
+#contact {
+  background-color: green;
+}
+
+.contact {
+  background-color: red;
+}
