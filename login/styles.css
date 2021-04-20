@@ -109,6 +109,7 @@ label{
 
 .loginbtn:hover{
   background: rgb(155, 0, 0, 0.6);
+  cursor: pointer;
 }
 
 a{
@@ -122,6 +123,7 @@ a{
 
 a:hover{
   text-decoration: underline;
+  
 }
 
 a:visited{
