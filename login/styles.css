@@ -84,6 +84,10 @@ input{
   background-color: rgba(255, 255, 255, 0.6);
   padding:.5rem;
   margin:.25rem 0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 input:focus{
@@ -101,7 +105,7 @@ label{
 }
 
 .loginbtn{
-  background: rgb(249, 93, 93, 0.5);
+  background: rgb(249, 92, 93, 0.5);
   border: 0px;
   width: 90px;
   color:#fff;
